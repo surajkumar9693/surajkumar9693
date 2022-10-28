@@ -4,8 +4,6 @@
 <img align="right" src="https://cdn.dribbble.com/users/2131993/screenshots/4948736/thoughtworks-gif_dribbble.gif" alt="Coder GIF" width="420" height="350">
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=surajkumar9693&label=Profile%20views&color=0e75b6&style=flat" alt="surajkumar9693" /> </p>
 
-<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=surajkumar9693" alt="surajkumar9693" /></a> </p>
-
 - 🔭 I’m currently working on **Backend projects**
 
 - 🌱 I’m currently learning **MERN stack**
